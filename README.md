@@ -1,4 +1,4 @@
-# &lttemplate is=shadow-root>
+# `<shadow-root>`
 
 A custom element that moves itself to its parent's shadow root.
 
